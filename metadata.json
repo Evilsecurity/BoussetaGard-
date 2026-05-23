@@ -1,0 +1,6 @@
+{
+  "name": "Bousseta Guard",
+  "description": "أقوى مضاد فيروسات وحماية أمان متكاملة لنظام الأندرويد. يشمل حماية وتتبع المنافذ المفتوحة، كشف تجسس الكاميرا والميكروفون، حماية تسريب الملفات، وفحص البرمجيات الخبيثة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
